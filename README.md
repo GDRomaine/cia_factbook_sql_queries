@@ -1,7 +1,7 @@
 ## cia_factbook_sql_queries
 
 In this project, I query `factbook.db`, a database storing all the information
-from the [CIA World Factbook](https://www.cia.gov/the-world-factbook/), a data souce compiled by
+from the [CIA World Factbook](https://www.cia.gov/the-world-factbook/), a data source compiled by
 the United States Central Intelligence Agency storing information on 267 world
 entities. It was provided to me by [dataquest.io](https://www.dataquest.io/).
 
