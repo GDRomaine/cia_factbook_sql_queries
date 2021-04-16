@@ -2,7 +2,7 @@
 
 In this project, I query `factbook.db`, a database storing all the information
 from the [CIA World Factbook](https://www.cia.gov/the-world-factbook/), a data souce compiled by
-the United States Central Intellignece Agency storing information on 267 world
+the United States Central Intelligence Agency storing information on 267 world
 entities. It was provided to me by [dataquest.io](https://www.dataquest.io/).
 
 The motivation behind the project is to showcase my ability to perform data
